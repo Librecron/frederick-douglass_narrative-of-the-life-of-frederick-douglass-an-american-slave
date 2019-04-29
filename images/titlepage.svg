@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 640">
+	<title>The titlepage for the Standard Ebooks edition of Narrative of the Life of Frederick Douglass, an American Slave, by Frederick Douglass</title>
+	<style type="text/css">
+		text{
+			font-family: League Spartan;
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+	</style>
+	<text class="title" x="700" y="130">NARRATIVE OF</text>
+	<text class="title" x="700" y="230">THE LIFE OF FREDERICK</text>
+	<text class="title" x="700" y="330">DOUGLASS,</text>
+	<text class="title" x="700" y="430">AN AMERICAN SLAVE</text>
+	<text class="author" x="700" y="590">FREDERICK DOUGLASS</text>
+</svg>
